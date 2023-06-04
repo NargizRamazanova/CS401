@@ -1,0 +1,15 @@
+/Users/nargizramazanova/Desktop/CS401/CS401/bin/Debug/net7.0/CS401
+/Users/nargizramazanova/Desktop/CS401/CS401/bin/Debug/net7.0/CS401.deps.json
+/Users/nargizramazanova/Desktop/CS401/CS401/bin/Debug/net7.0/CS401.runtimeconfig.json
+/Users/nargizramazanova/Desktop/CS401/CS401/bin/Debug/net7.0/CS401.dll
+/Users/nargizramazanova/Desktop/CS401/CS401/bin/Debug/net7.0/CS401.pdb
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/CS401.csproj.AssemblyReference.cache
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/CS401.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/CS401.AssemblyInfoInputs.cache
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/CS401.AssemblyInfo.cs
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/CS401.csproj.CoreCompileInputs.cache
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/CS401.dll
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/refint/CS401.dll
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/CS401.pdb
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/CS401.genruntimeconfig.cache
+/Users/nargizramazanova/Desktop/CS401/CS401/obj/Debug/net7.0/ref/CS401.dll
